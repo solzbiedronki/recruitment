@@ -1,0 +1,20 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrycja Cherubin",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.0",
+    "@cypress/webpack-preprocessor": "^5.16.1",
+    "cypress": "^12.3.0",
+    "cypress-fill-command": "^1.0.2"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  }
+}
